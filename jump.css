@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow:hidden;
+    
   }
   
   :root {
@@ -13,6 +13,7 @@
   
   body {
     background-color: var(--main-bg-color);
+    overflow:hidden;
   }
   
   .start-screen {
